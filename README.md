@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Mateus
 
-<!--
-**Nocturnnn/nocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Designer & Full Stack Developer**
 
-Here are some ideas to get you started:
+Crio interfaces modernas, responsivas e focadas em **UX/UI**, unindo design, performance e código limpo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+- HTML5, CSS3 (Flexbox, Grid)
+- JavaScript, TypeScript, React
+- Node.js, Python
+- Supabase
+- N8N (automações e integrações)
+- APIs REST & Webhooks
+
+### 🎯 O que eu desenvolvo
+- Landing pages orientadas à conversão
+- Sites e interfaces responsivas
+- Dashboards e sistemas web
+- Automações e integrações de dados
+
+📍 Anápolis - GO  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateus-vitor-2a3ba7335/) | [Portfólio](#)
