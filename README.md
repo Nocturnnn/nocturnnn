@@ -9,6 +9,9 @@ Crio interfaces modernas, responsivas e focadas em **UX/UI**, unindo design, per
 - JavaScript, TypeScript, React
 - Node.js, Python
 - Supabase
+- Firebase
+- Vite
+- BullMQ
 - N8N (automações e integrações)
 - APIs REST & Webhooks
 
